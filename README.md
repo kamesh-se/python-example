@@ -2,6 +2,6 @@
 
 ## 
 
-* [Python 3.4 Installation steps](python-example/"Visual Code.MD")
-* [Visual code Installation steps](python-example/installation-python34.md)
+* [Python 3.4 Installation steps](https://github.com/kamesh84/python-example/blob/master/VisualCode.MD)
+* [Visual code Installation steps](https://github.com/kamesh84/python-example/blob/master/installation-python34.md)
 
