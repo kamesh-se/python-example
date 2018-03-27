@@ -28,3 +28,7 @@ After installing pandas below package helps to create 2D graphs
 ```
 $ sudo pip install seaborn
 ```
+## Jupyter installation
+```
+$ sudo pip install jupyter
+````
